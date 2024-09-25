@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+[쇼핑정보] 최신 인기 상품 정보 입니다.<HR>
+1. 최신 스마트폰 <BR>
+2. 10.1인치 최신 태블릿 PC <BR>
 </body>
 </html>

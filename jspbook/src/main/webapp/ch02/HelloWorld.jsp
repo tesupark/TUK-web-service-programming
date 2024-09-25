@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>HelloWorld</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+현재 날짜와 시간은 : <%=new java.util.Date() %>
 </body>
 </html>

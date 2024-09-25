@@ -4,9 +4,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>date</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+<div align="center">
+<jsp:useBean id="date" class="java.util.Date"/>
+<%
+out.println("오늘의 날짜와 시간 <br>");
+%>
+<%=date%>
+</div>
 </body>
 </html>

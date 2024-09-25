@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>footer</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+footer.jsp에서 출력할 메시지입니다.
+<hr>
+<%= request.getParameter("email") %> <br>
+<%= request.getParameter("tel") %>
 </body>
 </html>

@@ -4,9 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>1부터 100까지의 합</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+<%
+	int total = 0;
+	for (int cnt = 1; cnt <= 100; cnt++)
+		total += cnt;%>
+	1부터 100까지 더한 값은? <%=total %>
 </body>
 </html>

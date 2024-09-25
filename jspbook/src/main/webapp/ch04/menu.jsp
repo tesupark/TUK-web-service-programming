@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-안녕하세요, <br> What is Web Programming?
+[게임] [쇼핑] [뉴스]
 </body>
 </html>
